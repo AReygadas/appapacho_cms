@@ -41,8 +41,8 @@ export default {
           primary200: 'rgba(255, 177, 169, 1)',
           primary300: 'rgba(255, 152, 141, 1)',
           primary500: 'rgba(255, 126, 112, 1)',
-          primary600: 'rgba(255, 110,  96, 1)',
-          primary700: 'rgba(230,  90,  78, 1)',
+          primary600: 'rgba(179, 96, 82, 1)',
+          primary700: 'rgba(255, 160, 135, 1)',
 
           // Fondo general y tarjetas
           neutral0: '#FFFFFF',      // fondo principal
@@ -76,8 +76,8 @@ export default {
           primary200: 'rgba(255, 177, 169, 1)',
           primary300: 'rgba(255, 152, 141, 1)',
           primary500: 'rgba(255, 126, 112, 1)',
-          primary600: 'rgba(255, 140, 120, 1)',
-          primary700: 'rgba(255, 160, 135, 1)',
+          primary600: 'rgba(179, 96, 82, 1)',
+          primary700: 'rgba(143, 77, 61, 1)',
 
           success500: '#27ae60',
           warning500: '#f39c12',
