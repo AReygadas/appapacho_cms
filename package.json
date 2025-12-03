@@ -2,7 +2,7 @@
   "name": "appapacho-cms",
   "version": "0.1.0",
   "private": true,
-  "description": "A Strapi application",
+  "description": "Appapacho CMS",
   "scripts": {
     "build": "strapi build",
     "console": "strapi console",
@@ -31,6 +31,7 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "sass-embedded": "^1.93.3",
     "typescript": "^5"
   },
   "engines": {
